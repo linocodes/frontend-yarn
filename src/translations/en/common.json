@@ -1,0 +1,319 @@
+{
+  "dashboard_default": {
+    "page_title": "Dashboard Default",
+    "visits":  "Visits",
+    "total_page_views":  "Total page views",
+    "new_users":  "New users",
+    "bounce_rate":  "Bounce rate",
+    "ab_testing":  "A/B testing analytics",
+    "visitors_sessions":  "Visitor sessions",
+    "sales_statistic":  "Sales statistic",
+    "budget_statistic":  "Budget statistic",
+    "audience_by_country":  "Audience by country",
+    "best_selling":  "Best selling regions",
+    "goals_completion":  "Goal completion"
+  },
+  "dashboard_commerce": {
+    "page_title": "Dashboard E-commerce",
+    "total_products": "Total products",
+    "total_profit": "Total profit",
+    "orders_today": "Orders today",
+    "subscriptions": "Subscriptions",
+    "product_sales": "Product sales",
+    "new_orders": "New orders",
+    "my_todos": "My todos",
+    "sales_statistic": "Sales statistic",
+    "sales_report": "Sales report",
+    "emails": "Emails",
+    "short_reminders": "Short reminders",
+    "top_selling_products": "Top selling products",
+    "basic_card": "Basic card",
+    "recent_orders": "Recent orders"
+  },
+  "dashboard_fitness": {
+    "page_title": "Dashboard Fitness",
+    "heartrate": "Heartrate",
+    "calories_burn": "Calories burn",
+    "steps": "Steps",
+    "distance": "Distance",
+    "activity_chart": "Activity chart",
+    "today_running_map": "Today running map",
+    "my_competitors": "My competitors",
+    "fat_burning": "Fat burning",
+    "activity_rating": "Activity rating"
+  },
+  "dashboard_crypto": {
+    "page_title": "Dashboard Crypto",
+    "trade_history": "Trade history",
+    "cryptotrends_today": "Cryptotrends today",
+    "place_order": "Place order",
+    "top_cryptocurrencies": "Top 10 cryptocurrencies"
+  },
+  "layout": {
+    "page_title": "Layout",
+    "light_theme": "Light Theme",
+    "dark_theme": "Dark Theme"
+  },
+  "mail_application": {
+    "page_title": "Mail Application",
+    "compose": "Compose",
+    "inbox": "Inbox",
+    "sent_mail": "Sent Mail",
+    "drafts": "Drafts",
+    "tagged": "Tagged",
+    "deleted": "Deleted",
+    "labels": "Labels",
+    "attachment": "Attachment",
+    "search": "Search"
+  },
+  "chat_application": {
+    "page_title": "Chat Application",
+    "search": "Search",
+    "type_here": "Type here",
+    "download": "Download",
+    "no_messages": "No messages"
+  },
+  "forms": {
+    "title": "Forms",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "basic_form": {
+      "title": "Basic form",
+      "horizontal_form": "Horizontal form",
+      "vertical_form": "Vertical form"
+    },
+    "check_form_controls": {
+      "title": "Check Form Controls",
+      "default_controls": "Default controls",
+      "colored_controls": "Colored controls",
+      "colored_controls_on_click": "Colored controls on click",
+      "button_type_controls": "Button type controls"
+    },
+    "file_upload": {
+      "title": "File upload",
+      "file_upload_default": "File upload default",
+      "file_upload_custom_height": "File upload custom height"
+    },
+    "floating_labels_form": {
+      "title": "Floating Labels Form",
+      "animated_line_inputs": "Animated line inputs forms with floating labels"
+    },
+    "form_dropzone": {
+      "title": "Form dropzone",
+      "drop_files_to_upload": "Drop files to upload"
+    },
+    "form_layouts": {
+      "title": "Form layouts",
+      "horizontal_form": "Horizontal form",
+      "horizontal_form_with_icons": "Horizontal form with icons",
+      "vertical_form": "Vertical form",
+      "vertical_form_with_icons": "Vertical form with icons"
+    },
+    "from_picker": {
+      "title": "Form-picker",
+      "date_picker": "Date picker",
+      "time_picker": "Time picker",
+      "color_picker": "Color picker"
+    },
+    "from_validation": {
+      "title": "Form Validation",
+      "horizontal_form_validate": "Horizontal form validate",
+      "horizontal_form_validate_two": "Horizontal form validate 2",
+      "vertical_form_validate": "Vertical form validate",
+      "vertical_form_validate_two": "Vertical form validate 2"
+    },
+    "mask_form": {
+      "title": "Mask form",
+      "mask_examples": "Mask examples"
+    },
+    "material_from": {
+      "title": "Material form",
+      "animated_line": "Animated line inputs forms"
+    },
+    "wizard_from": {
+      "title": "Wizard form",
+      "step": "Step",
+      "fill": "Fill your personal data",
+      "address": "What’s your address",
+      "set": "Set the preferences",
+      "back": "Back",
+      "next": "Next"
+    }
+  },
+  "tables": {
+    "title": "Tables",
+    "basic_tables": {
+      "title": "Basic tables",
+      "basic_table": "Basic table",
+      "bordered_table": "Bordered table",
+      "head_accent_table": "Head accent table",
+      "colored_string_table": "Colored string table",
+      "hover_colored_string_table": "Hover colored string table",
+      "inverse_table": "Inverse table",
+      "responsive_table": "Responsive table"
+    },
+    "data_table": {
+      "title": "Data table"
+    },
+    "editable_table": {
+      "title": "Editable table"
+    }
+  },
+  "charts": {
+    "title": "Charts",
+    "react_chartjs": {
+      "title": "ChartJS 2",
+      "point_sizes": "Point sizes",
+      "random_animated_line": "Random animated line",
+      "random_animated_bars": "Random animated bars",
+      "polar_area": "Polar area",
+      "dynamicly_refreshed_doughnut": "Denamicly refreshed doughnut",
+      "legend_handlers": "Legend handlers"
+    },
+    "react_vis": {
+      "title": "React-vis",
+      "plots": "Plots",
+      "line_series_canvas": "Line series canvas",
+      "mark_series_canvas": "Mark series canvas",
+      "line_series": "Line series",
+      "line_series_with_many_colors": "Line series with many colors",
+      "bars": "Bars"
+    },
+    "recharts": {
+      "title": "Recharts",
+      "simple_line_chart": "Simple line chart",
+      "dashed_line_chart": "Dashed  line chart",
+      "simple_area_chart": "Simple area chart",
+      "stacked_area_chart": "Stacked area chart",
+      "multiple_scatter_chart": "Multiple yaxes scatter chart",
+      "simple_radial_bar_chart": "Simple radial bar chart",
+      "simple_radar_chart": "Simple radar chart",
+      "two_level_pie_chart": "Two level pie chart"
+    }
+  },
+  "maps": {
+    "title": "Maps",
+    "google_map": {
+      "title": "Google map",
+      "basic_map": "Basic map",
+      "pin_with_info_window": "Pin with info window",
+      "monochrome_map": "Monochrome map"
+    },
+    "vector_map": {
+      "title": "Vector map",
+      "vector_world_map": "Vector world map"
+    }
+  },
+  "account": {
+    "title": "Account",
+    "email_confirmation": {
+      "title": "Email Confirmation",
+      "verified": "Your e-mail address has been successfully verified",
+      "thank_you": "Thank you for choosing the EasyDev",
+      "go_to_dashboard": "Go to dashboard",
+      "got_to_profile": "Go to profile"
+    },
+    "profile": {
+      "title": "Profile",
+      "current_tasks": "Current tasks",
+      "activity": "Activity",
+      "timeline": "Timeline",
+      "settings": "Settings"
+    }
+  },
+  "commerce": {
+    "title": "E-Commerce",
+    "cart": {
+      "title": "Cart",
+      "purchase": "Purchase"
+    },
+    "catalog": {
+      "title": "Catalog"
+    },
+    "orders_list": {
+      "title": "Orders List"
+    },
+    "payment": {
+      "title": "Payment",
+      "make_payment": "Make payment"
+    },
+    "product_edit": {
+      "title": "Product Edit",
+      "main_information": "Main information",
+      "pricing": "Pricing",
+      "general_information": "General information",
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "product_page": {
+      "title": "Product Page",
+      "related_items": "Related items",
+      "pricing": "Pricing",
+      "general_information": "General information",
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "product_list": {
+      "title": "Product List"
+    }
+  },
+  "default_pages": {
+    "title": "Default Pages",
+    "calendar": {
+      "title": "Calendar",
+      "events_labels": "Events labels",
+      "create_new_event": "Create new event"
+    },
+    "faqs": {
+      "title": "FAQs"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "filter_gallery": "Filter gallery"
+    },
+    "invoice": {
+      "title": "Invoice template",
+      "proceed_to_payment": "Proceed to payment",
+      "print": "Print"
+    },
+    "pricing_cards": {
+      "title": "Pricing Cards",
+      "basic": "Basic",
+      "special": "Special",
+      "pro": "Pro",
+      "premium": "Premium",
+      "sign_up": "Sign Up"
+    },
+    "project_summary": {
+      "title": "Project summary",
+      "global_company": "Nes website for global company",
+      "task_statistic": "Task statistic",
+      "project_team": "Project team"
+    },
+    "search_results": {
+      "title": "Search Results",
+      "search_here": "Search here"
+    },
+    "text_editor": {
+      "title": "Text Editor"
+    }
+  },
+  "multilevel": {
+    "title": "Multilevel Menu",
+    "second": "Second Level Item",
+    "third": "Third Level Item"
+  },
+  "log_out": "Log Out",
+  "documentation": "Documentation",
+  "other_pages": "Other pages",
+  "dashboards": "Dashboards",
+  "topbar": {
+    "profile": "My Profile",
+    "calendar": "Calendar",
+    "tasks": "Tasks",
+    "inbox": "Inbox",
+    "account_settings": "Account Settings",
+    "lock_screen": "Lock screen",
+    "log_out": "Log out"
+  }
+}
